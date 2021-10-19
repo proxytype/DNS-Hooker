@@ -22,7 +22,7 @@ DNS_STATUS WINAPI _DnsQueryEx(
 ) {
 
     wstring f(pQueryRequest->QueryName);
-    size_t found = f.find(L"google");
+    size_t found = f.find(L"facebook");
 
     if (found != string::npos) {
         return ERROR_INVALID_PARAMETER;
