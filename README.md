@@ -1,7 +1,7 @@
 # DNS-Hooker
 Hook DnsQueryEX to control domains resolving in any application using dnsapi.dll.
 
-![alt text](https://raw.githubusercontent.com/proxytype/UI-Injection-Text/main/overwrite_interface.JPG)
+![alt text](https://raw.githubusercontent.com/proxytype/DNS-Hooker/main/dnshooker.JPG)
 
 ## Requierments:
 Microsoft Detours Library - https://github.com/microsoft/Detours
